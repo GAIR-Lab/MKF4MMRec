@@ -16,6 +16,15 @@ Multimodal recommendation has emerged as a mainstream paradigm, typically levera
 
 To ensure the scale and comprehensiveness of our study, we evaluate 14 widely used state-of-the-art multimodal recommendation models. Our findings reveal that: (1) multimodal embeddings generally enhance recommendation performance - particularly when integrated through more sophisticated graph-based fusion models. Surprisingly, commonly adopted baseline models with simple fusion schemes, such as VBPR and BM3, show only limited gains. (2) The text modality alone achieves performance comparable to the full multimodal setting in most cases, whereas the image modality alone does not. These results offer foundational insights and practical guidance for the multimodal recommendation community.
 
+## Main Results
+
+<p align="center" width="100%">
+<img src="ndcg10_comparison_all_datasets.png" width="800"/>
+</p>
+
+Comparing 14 Multimodal Recommendation Models under Modality Knockouts
+on Baby, Clothing, and Sports Datasets.
+
 
 ## Citation
 If you find our paper useful in your work, please cite our paper as:
