@@ -3,6 +3,7 @@
 ![Recommendation](https://img.shields.io/badge/Task-Recommendation-red) 
 <a href="https://arxiv.org/abs/2508.07399" alt="arXiv"><img src="https://img.shields.io/badge/arXiv-2404.02059-FAA41F.svg?style=flat" /></a>
 <a href="https://mp.weixin.qq.com/s/SYSzO_tZwBWmrLEnXutgiQ?scene=1" alt="中文博客"><img src="https://img.shields.io/badge/博客-中文-orange.svg?style=flat" /></a> 
+<a href="https://zhuanlan.zhihu.com/p/1998443867918336715" alt="知乎"><img src="https://img.shields.io/badge/知乎-中文-%23002FA7.svg?style=flat" /></a> 
 
 ## How to run the code
 1. Prepare dataset, download files from Amazon, put files in ./dataset
